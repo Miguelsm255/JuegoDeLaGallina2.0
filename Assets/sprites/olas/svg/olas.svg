@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="olas.svg"
+   inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+   inkscape:export-xdpi="343"
+   inkscape:export-ydpi="343">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="275.57396"
+     inkscape:cy="534.64217"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1318"
+     inkscape:window-height="704"
+     inkscape:window-x="48"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="110.88487,161.11176"
+       orientation="0,1"
+       id="guide957"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 16.8628,135.88824 c 0,0 3.376261,-4.13966 6.718759,0"
+       id="path863"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 23.575798,135.88824 c 0,0 3.376245,4.18366 6.718726,0"
+       id="path863-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 30.294524,135.88824 c 0,0 3.376261,-4.13966 6.718759,0"
+       id="path863-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 37.007522,135.88824 c 0,0 3.376245,4.18366 6.718726,0"
+       id="path863-3-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 43.726248,135.88824 c 0,0 3.376262,-4.13966 6.718759,0"
+       id="path863-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 50.439247,135.88824 c 0,0 3.376241,4.18366 6.718721,0"
+       id="path863-3-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 57.157968,135.88824 c 0,0 3.37627,-4.13966 6.71876,0"
+       id="path863-56"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 63.870968,135.88824 c 0,0 3.37625,4.18366 6.71873,0"
+       id="path863-3-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 70.589698,135.88824 c 0,0 3.37626,-4.13966 6.71876,0"
+       id="path863-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 77.302698,135.88824 c 0,0 3.37624,4.18366 6.71872,0"
+       id="path863-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 84.021418,135.88824 c 0,0 3.37626,-4.13966 6.71876,0"
+       id="path863-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 90.734418,135.88824 c 0,0 3.37625,4.18366 6.71873,0"
+       id="path863-3-70"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 97.453148,135.88824 c 0,0 3.376262,-4.13966 6.718762,0"
+       id="path863-93"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 104.16615,135.88824 c 0,0 3.37624,4.18366 6.71872,0"
+       id="path863-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 110.88487,135.88824 c 0,0 3.37626,-4.13966 6.71876,0"
+       id="path863-93-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 117.59787,135.88824 c 0,0 3.37624,4.18366 6.71872,0"
+       id="path863-3-6-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 124.31659,135.88824 c 0,0 3.37626,-4.13966 6.71876,0"
+       id="path863-93-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 131.02959,135.88824 c 0,0 3.37624,4.18366 6.71872,0"
+       id="path863-3-6-61"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 137.74831,135.88824 c 0,0 3.37626,-4.13966 6.71876,0"
+       id="path863-93-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 144.46131,135.88824 c 0,0 3.37624,4.18366 6.71872,0"
+       id="path863-3-6-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 151.18003,135.88824 c 0,0 3.37626,-4.13966 6.71876,0"
+       id="path863-93-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 157.89303,135.88824 c 0,0 3.37624,4.18366 6.71872,0"
+       id="path863-3-6-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miguel/Documentos/Programas/Unity/Juego de la gallina 2.0/Assets/sprites/olas/png/olas.png"
+       inkscape:export-xdpi="343"
+       inkscape:export-ydpi="343" />
+    <path
+       style="opacity:1;fill:#ff3e00;fill-opacity:1;stroke:#ff3e01;stroke-width:2.13543296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 64.463503,667.9154 V 513.9921 l 2.25,-2.04935 c 3.490764,-3.17946 6.268446,-4.29927 10.664328,-4.29927 3.541356,0 4.869097,0.74609 10.648689,5.98379 10.359551,9.38824 17.52781,9.92538 25.53942,1.91376 5.37614,-5.37613 9.74213,-7.88934 13.7133,-7.89382 4.3161,-0.005 6.59794,1.25388 12.7936,7.05744 9.16162,8.58182 15.85328,8.57445 24.94852,-0.0275 5.73014,-5.41933 8.84544,-7.03372 13.57298,-7.03372 3.99373,0 6.38452,1.35287 12.4785,7.06117 8.93249,8.36719 16.06981,8.5421 24.34491,0.59659 2.50016,-2.40058 5.65838,-5.10563 7.01826,-6.01123 5.21752,-3.47455 14.57203,-1.04299 18.38702,4.77943 0.86156,1.3149 4.08147,3.62121 7.15537,5.12512 5.14344,2.51646 5.9155,2.63654 9.68673,1.50665 2.34454,-0.70244 6.28006,-3.27182 9.19811,-6.00514 6.37768,-5.97396 8.44463,-7.05259 13.51459,-7.05259 3.54135,0 4.8691,0.74609 10.64869,5.98379 10.67598,9.675 16.95842,9.94211 26.6452,1.13289 6.4206,-5.83894 8.71727,-7.11668 12.79178,-7.11668 4.12822,0 6.47267,1.31287 12.60934,7.06117 9.18029,8.5993 16.04778,8.55925 25.31709,-0.14765 5.86615,-5.51022 8.54638,-6.91352 13.20441,-6.91352 3.99373,0 6.38452,1.35287 12.4785,7.06117 8.93249,8.36719 16.06981,8.5421 24.34491,0.59659 6.5365,-6.27615 8.9787,-7.65776 13.53612,-7.65776 4.34243,0 10.63781,3.50247 12.479,6.94276 0.56062,1.04753 3.52021,3.12818 6.57686,4.62366 5.11129,2.50072 5.88661,2.62047 9.6554,1.49131 2.34454,-0.70244 6.28006,-3.27182 9.19811,-6.00514 6.37768,-5.97396 8.44463,-7.05259 13.51459,-7.05259 3.54135,0 4.8691,0.74609 10.64869,5.98379 10.86502,9.84631 17.21117,10.08321 26.90488,1.00434 6.05899,-5.6747 8.41443,-6.98813 12.5321,-6.98813 4.0761,0 6.37101,1.27758 12.80446,7.12827 8.91535,8.10778 16.75777,8.41623 24.00937,0.94431 7.1496,-7.36681 13.99728,-9.80189 19.50191,-6.93499 1.20134,0.62568 4.48346,3.29129 7.2936,5.92358 7.94529,7.44246 16.01108,8.4624 22.05079,2.78839 l 2.33987,-2.19819 v 151.67432 151.6743 l -9.75,0.007 c -22.41731,0.016 -366.11757,1.94366 -453,2.54064 l -94.249997,0.64757 z"
+       id="path1007"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
